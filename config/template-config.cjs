@@ -7,14 +7,10 @@ const TEMPLATE_CONFIG = [
       **{{date.DATA}}**
       城市：{{city.DATA}}
       天气：{{weather.DATA}}
-      气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}}
-
-      
-      {{comprehensive_horoscope.DATA}}
-      
+      气温(最高/最低):{{max_temperature.DATA}} / {{min_temperature.DATA}} 
       ---
 
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+      {{note_en.DATA}} 
     `
   },
   {
